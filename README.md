@@ -1,2 +1,2 @@
-# PHPlearning
-hey wsp
+# Web Projects
+Simple Web Projects
